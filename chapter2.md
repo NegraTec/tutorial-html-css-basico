@@ -1,3 +1,3 @@
 # Como páginas são mostradas na Internet?
 
-![](./imagens/cabos-internet.png)
+![](./assets/cabos-internet.png)
